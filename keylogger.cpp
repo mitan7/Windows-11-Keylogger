@@ -98,4 +98,7 @@ int main() {
 // it uses a .lock file (randomdata.lock) at like C:\users\(user)\temp\roaming\ (i think)
 // also, don't be an idiot and use this as actual malware. Using this to see how a keylogger works is okay.
 
+
 // also, this is easily detected by Windows Defender. 
+
+// Also, a .lock file in this context stops it from running multiple times.
